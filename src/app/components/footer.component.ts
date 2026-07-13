@@ -38,13 +38,16 @@ import { Component } from '@angular/core';
         </div>
         
         <div class="footer-contact-summary">
-          <h4>Address & Info</h4>
-          <p>AgroEnergy Ventures</p>
-          <p>Village Kanakot, Tehsil Patan,</p>
-          <p>District Durg, Chhattisgarh (India)</p>
-          <div class="footer-contact-details">
-            <p><strong>Phones:</strong> +91 9810306892, +91 9990143908</p>
-            <p><strong>Email:</strong> agroenergyventures@gmail.com</p>
+          <h4>Contact & Locations</h4>
+          <p style="margin-bottom: 8px; font-size: 0.85rem; line-height: 1.4;">
+            <strong>Reg. Office:</strong> In front of Nagar Palika Nigam office Bhilai-Charoda, Shanti Nagar Bhilai-3, Bhilai, District Durg, CG - 490021
+          </p>
+          <p style="margin-bottom: 8px; font-size: 0.85rem; line-height: 1.4;">
+            <strong>Factory:</strong> Plot No./ Khasra No. - 941/3, Village Kanakot, Tehsil Patan, District Durg, CG - 491221
+          </p>
+          <div class="footer-contact-details" style="margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--glass-border);">
+            <p style="font-size: 0.85rem;"><strong>Phones:</strong> +91 9810306892, +91 9990143908</p>
+            <p style="font-size: 0.85rem;"><strong>Emails:</strong> contact&#64;agroenergyventures.in / agroenergyventures&#64;gmail.com</p>
           </div>
         </div>
       </div>

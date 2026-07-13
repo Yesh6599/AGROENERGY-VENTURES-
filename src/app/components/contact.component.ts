@@ -23,8 +23,17 @@ import { InquiryService } from '../services/inquiry.service';
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
                 </span>
                 <div>
-                  <h4>Manufacturing Facility</h4>
-                  <p>AgroEnergy Ventures, Village Kanakot, Tehsil Patan, District Durg, Chhattisgarh (India)</p>
+                  <h4>Registered Office</h4>
+                  <p>In front of Nagar Palika Nigam office Bhilai-Charoda, Shanti Nagar Bhilai-3, Bhilai, District Durg, Chhattisgarh, Pin: 490021</p>
+                </div>
+              </div>
+              <div class="method-card">
+                <span class="method-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                </span>
+                <div>
+                  <h4>Factory Address</h4>
+                  <p>Plot No./ Khasra No. - 941/3, Village Kanakot, Tehsil Patan, District Durg, Chhattisgarh, Pin: 491221</p>
                 </div>
               </div>
               <div class="method-card">
@@ -43,7 +52,8 @@ import { InquiryService } from '../services/inquiry.service';
                 </span>
                 <div>
                   <h4>Email Correspondence</h4>
-                  <p><a href="mailto:agroenergyventures@gmail.com" class="contact-link">agroenergyventures@gmail.com</a></p>
+                  <p><a href="mailto:contact@agroenergyventures.in" class="contact-link">contact@agroenergyventures.in</a></p>
+                  <p><a href="mailto:agroenergyventures@gmail.com" class="contact-link" style="font-size: 0.85rem; opacity: 0.75;">agroenergyventures@gmail.com</a></p>
                 </div>
               </div>
             </div>

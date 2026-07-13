@@ -148,7 +148,7 @@ Regards,
   get mailtoLink(): string {
     const subject = encodeURIComponent("Inquiry for Biomass Pellets - AgroEnergy Ventures");
     const body = encodeURIComponent(this.inquiryDraftText);
-    return `mailto:agroenergyventures@gmail.com?subject=${subject}&body=${body}`;
+    return `mailto:contact@agroenergyventures.in?subject=${subject}&body=${body}`;
   }
 
   copyDraft() {
