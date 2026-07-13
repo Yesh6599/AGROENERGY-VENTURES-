@@ -19,7 +19,7 @@ export interface InquiryData {
 export class InquiryService {
   // Replace with your Formspree Form ID or Web3Forms access key
   // For Formspree: https://formspree.io/f/your-form-id
-  private apiUrl = 'https://formspree.io/f/placeholder'; 
+  private apiUrl = 'https://formspree.io/f/mdaqoyed'; 
 
   constructor(private http: HttpClient) {}
 
