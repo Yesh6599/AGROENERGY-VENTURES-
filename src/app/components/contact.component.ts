@@ -53,7 +53,7 @@ import { InquiryService } from '../services/inquiry.service';
                 <div>
                   <h4>Email Correspondence</h4>
                   <p><a href="mailto:contact@agroenergyventures.in" class="contact-link">contact@agroenergyventures.in</a></p>
-                  <p><a href="mailto:agroenergyventures@gmail.com" class="contact-link" style="font-size: 0.85rem; opacity: 0.75;">agroenergyventures@gmail.com</a></p>
+                  <p><a href="mailto:agroenergyventures@gmail.com" class="contact-link">agroenergyventures@gmail.com</a></p>
                 </div>
               </div>
             </div>
